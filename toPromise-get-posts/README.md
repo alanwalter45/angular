@@ -1,4 +1,4 @@
-# Learning
+# Learn
 
 * toPromise
 * JSON
