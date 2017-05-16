@@ -1,5 +1,5 @@
-import { Observable, Subject } from 'rxjs/Rx';
 import { Component } from '@angular/core';
+import { Observable, Subject } from 'rxjs/Rx';
 import 'rxjs/add/operator/map';
 
 @Component({
